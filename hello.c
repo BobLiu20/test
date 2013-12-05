@@ -1,6 +1,4 @@
 void main(void)
 {
-	ffff
-	123ff
-	q123
+123
 }
